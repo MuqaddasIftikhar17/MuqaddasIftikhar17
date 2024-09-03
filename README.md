@@ -22,12 +22,12 @@ Welcome to my GitHub space! 🚀 I’m a passionate Data Scientist with a deep i
 <br><br>
 <strong>📫 How to Reach Me:</strong>
 <br>
-📧 **Email:** 1117muqaddasiftikharwork@gmail.com<br>
-🔗 **LinkedIn:** [linkedin.com/in/muqaddasiftikhar17/](https://www.linkedin.com/in/muqaddasiftikhar17/)
+📧 <strong>Email:</strong> 1117muqaddasiftikharwork@gmail.com<br>
+🔗 <strong>LinkedIn:</strong> [linkedin.com/in/muqaddasiftikhar17/](https://www.linkedin.com/in/muqaddasiftikhar17/)
 <br><br>
 <strong>😄 Pronouns:</strong>
 <br>
-🙋‍♀️ **she/her**
+🙋‍♀️ she/her
 <br><br>
 <strong>⚡ Fun Fact:</strong>
 <br>
