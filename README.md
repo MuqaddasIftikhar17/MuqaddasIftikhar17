@@ -1,5 +1,5 @@
-<center><strong><h1>👋 Hi, I’m Muqaddas Iftikhar</h1><s/strong></center> <br> <br>
-  ---
+<center><strong><h1>👋 Hi, I’m Muqaddas Iftikhar</h1><s/strong></center> <br>
+
 Welcome to my GitHub space! I’m a passionate Data Scientist with a deep interest in Machine Learning, Deep Learning, and Natural Language Processing. My journey in the tech world is driven by curiosity and a relentless desire to turn data into actionable insights.
 
 <br>
