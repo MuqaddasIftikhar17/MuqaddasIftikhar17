@@ -35,4 +35,4 @@ Welcome to my GitHub space! 🚀 I’m a passionate Data Scientist with a deep i
 <strong>⚡ Fun Fact:</strong>
 
 <br>
-  🎨 When I'm not crunching numbers or coding, I enjoy exploring the intersection of technology and creativity. Whether it's visualizing complex data or brainstorming innovative solutions, I believe that data science is both an art and a science.
+  🎨 When I'm not working, you might find me painting or drawing, trying out new recipes in the kitchen 🍳, or getting lost in a good book 📚. I believe in keeping life balanced with a mix of creativity, adventure, and relaxation!
