@@ -5,20 +5,20 @@ Welcome to my GitHub space! 🚀 I’m a passionate Data Scientist with a deep i
 <br><br>
 <strong>👀 Interests:</strong>
 <br>
-1. 💡 Unlocking the power of data through **ML and AI**.<br>
-2. 🔬 Exploring cutting-edge **Deep Learning techniques**.<br>
-3. 📚 Diving deep into **Natural Language Processing**.
+1. 💡 Unlocking the power of data through <strong>ML and AI</strong>.<br>
+2. 🔬 Exploring cutting-edge <strong>Deep Learning techniques</strong>.<br>
+3. 📚 Diving deep into <strong>Natural Language Processing</strong>.
 <br><br>
 <strong>🌱 Currently Learning:</strong>
 <br>
-1. 🧠 Advanced NLP models like **Transformers and BERT**.<br>
-2. 🛠️ Deep Learning frameworks such as **TensorFlow and PyTorch**.<br>
-3. 🌍 Applied **AI in real-world scenarios**.
+1. 🧠 Advanced NLP models like <strong>Transformers and BERT</strong>.<br>
+2. 🛠️ Deep Learning frameworks such as <strongTensorFlow and PyTorch</strong>.<br>
+3. 🌍 Applied <strong>AI in real-world scenarios</strong>.
 <br><br>
 <strong>💼 Projects & Collaboration:</strong>
 
 <br>
-  💬 Always open to collaborating on exciting projects in **AI, ML, Data Science,** and **NLP**.<br>
+  💬 Always open to collaborating on exciting projects in <strong>AI, ML, Data Science</strong> and <strongNLP</strong>.<br>
   ✨ Let's build something impactful together! Feel free to check out my repositories or reach out if you have an idea.
 <br><br>
 <strong>📫 How to Reach Me:</strong>
