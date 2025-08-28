@@ -24,8 +24,8 @@ Welcome to my GitHub space! 🚀 I’m a passionate Data Scientist with a deep i
 <strong>📫 How to Reach Me:</strong>
 
 <br>
-  📧 <strong>Email:</strong> 1117muqaddasiftikharwork@gmail.com<br>
-  🔗 <strong>LinkedIn:</strong> [linkedin.com/in/muqaddasiftikhar17/](https://www.linkedin.com/in/muqaddasiftikhar17/)
+  📧 <strong>Email:</strong> muqaddas.iftikhar.work17@gmail.com<br>
+  🔗 <strong>LinkedIn:</strong> [linkedin.com/in/Muqaddas-Iftikhar17/](https://www.linkedin.com/in/Muqaddas-Iftikhar17/)
 <br><br>
 <strong>😄 Pronouns:</strong>
 
